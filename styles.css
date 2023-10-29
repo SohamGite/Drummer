@@ -1,0 +1,75 @@
+body{
+    text-align: center ;
+    background-image: url("https://wallpapercosmos.com/cdn-cgi/image/width=1600,quality=40,format=auto/w/full/1/4/2/1169039-2815x2111-desktop-hd-drums-wallpaper-photo.jpg");
+    overflow: hidden;
+}
+h1{
+    font-size: 5rem;
+    color: rgb(219,237,243);
+    text-shadow: rgb(219,4,99) 3px 0px;
+    font-family: 'Playpen Sans', cursive;
+}
+footer{
+    color: rgb(219,237,243);
+    font-family: sans-serif;
+}
+.w{
+    background-image: url("images/tom1.png");
+
+    
+}
+.a{
+    background-image: url("images/tom2.png");
+    }
+.s{
+    background-image: url("images/tom3.png");
+    
+}
+.d{
+    background-image: url("images/tom4.png");
+}
+.j{
+    background-image: url("images/snare.png");  
+}
+.k{
+    background-image: url("images/crash.png"); 
+    
+}
+.l{
+    background-image: url("images/kick.png");
+}
+
+.set {
+    margin: 10% auto;
+  }
+  
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+  
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.drum{
+    font-size: 5rem;
+    font-family: Arvo,cursive;
+    line-height:2;
+    font-weight: 900;
+    color:rgb(2,4,99);
+    text-shadow: rgb(219,237,243) 3px 0px;
+    display: inline-block;
+    width: 150px;
+    height:150px;
+    text-align: center;
+    background-color: white;
+    outline: none;
+    border-width:10px ;
+    border-style: solid;
+    border-color: rgb(64,75,105);
+    border-image: initial;
+    border-radius: 15px;
+    margin: 10px;
+
+}
